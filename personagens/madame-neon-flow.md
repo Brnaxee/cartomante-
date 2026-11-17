@@ -11,8 +11,15 @@ Imagem de referência aprovada: `madame-neon-referencia.webp`
 
 ## Bloco base (colar no início de todo clipe)
 ```
-Vertical 9:16, static camera, medium shot, same character and room as the reference image. Madame Neon: glamorous woman in her early 50s, big voluminous dark curly hair, large lavender-tinted sunglasses, big gold hoop earrings, gold chains and bracelets, shiny purple satin jacket over a dark floral top, long hot-pink nails. She sits at a round table with a leopard print tablecloth, tarot cards, lit candles, two silver vintage boombox radios and a snow globe with a palm tree. Behind her: pink neon sign "Karten 24/7", shelves with old TVs, radios and guitars, window blinds glowing pink and blue. 1980s beach town pawn shop at night, cinematic neon lighting, photorealistic. She speaks German in a warm, slightly raspy, ironic voice. Ambient sound: distant traffic and soft synthwave music. No subtitles, no text on screen.
+Vertical 9:16, static camera, medium shot, same character and room as the reference image. Madame Neon: glamorous woman in her early 50s, big voluminous dark curly hair, large lavender-tinted sunglasses, big gold hoop earrings, gold chains and bracelets, shiny purple satin jacket over a dark floral top, long hot-pink nails. She sits at a round table with a leopard print tablecloth, tarot cards, lit candles, two silver vintage boombox radios and a snow globe with a palm tree. Behind her: pink neon sign "Karten 24/7", shelves with old TVs, radios and guitars, window blinds glowing pink and blue. 1980s beach town pawn shop at night, cinematic neon lighting, photorealistic. VOICE: She speaks fluent native German with a standard German accent. Low, warm, slightly raspy female alto voice of a woman in her 50s, like a former smoker. Relaxed, unhurried pace with dramatic little pauses. Dry, ironic, amused tone, as if she has seen everything, but kind underneath. Slight theatrical drama when naming a card. Close, intimate microphone sound, not echoey. Ambient sound: distant traffic and soft synthwave music. No subtitles, no text on screen.
 ```
+
+## Voz alternativa (ElevenLabs – Voice Design)
+Use esta opção se a voz do Flow mudar muito de um clipe para outro. Crie a voz uma vez, gere todas as falas com ela e depois coloque o áudio por cima dos clipes no CapCut. Nesse caso, gere os clipes no Flow com "no dialogue, she moves her lips as if speaking softly" ou só com o som ambiente.
+```
+A German woman in her early 50s with a low, warm, slightly raspy alto voice, like a former smoker. She speaks native standard German at a relaxed, unhurried pace with small dramatic pauses. Her tone is dry, ironic and amused, like a fortune teller who has seen everything in her city, but kind and affectionate underneath. Intimate, close-mic sound, clear and natural.
+```
+Texto de teste para a voz: "Setz dich, Baby. Ich lege dir drei Karten. Eine davon betrifft genau dich."
 
 ## Clipes
 
