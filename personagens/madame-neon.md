@@ -30,3 +30,16 @@ Ela **não** é personagem do GTA e não usa nada da Rockstar: nem nome, nem log
 ## Limites do humor
 - As piadas podem brincar com a cidade (trânsito, sirene, gente estranha), mas sem glamourizar crime de verdade e sem prometer dinheiro, "golpe" ou sorte.
 - Todas as regras do README continuam valendo.
+
+## Imagem para avatar falante (D-ID, HeyGen, Hedra)
+Essas ferramentas animam só o rosto: as mãos ficam paradas. Por isso, a imagem do avatar precisa ter as **mãos apoiadas na mesa** (nunca no ar) e o rosto **maior e mais perto da câmera**, para a boca sincronizar melhor.
+
+**Editar a imagem atual** (no Flow, usando `madame-neon-referencia.webp` como referência):
+```
+Same woman, same outfit, same room and lighting as the reference image. Change only her pose: her hands rest relaxed on the leopard print table, fingers loosely crossed in front of her, resting on top of the tarot cards. Slightly closer framing, from the chest up, her face larger in the frame and looking directly into the camera with a calm, knowing smile, mouth closed.
+```
+
+**Gerar do zero:**
+```
+Vertical 9:16 photorealistic portrait, chest-up framing, of an original fortune teller character called Madame Neon: a glamorous, confident woman in her early 50s with big voluminous dark curly hair, large lavender-tinted sunglasses, big gold hoop earrings, gold chains and bracelets, a shiny purple satin jacket over a dark floral top, long hot-pink nails. She sits at a table with a leopard print tablecloth, her hands resting relaxed on the table with fingers loosely crossed in front of her, on top of a spread of tarot cards. Lit candles, a silver vintage boombox and a snow globe with a palm tree on the table. Behind her, a pink neon sign reading "Karten 24/7" and window blinds glowing pink and blue, in the back room of a 1980s beach town pawn shop at night. She looks directly into the camera with a calm, knowing smile, mouth closed, face well lit and clearly visible. Cinematic neon lighting, sharp focus.
+```
