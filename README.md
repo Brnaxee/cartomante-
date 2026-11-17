@@ -17,4 +17,5 @@ Conta alemã de TikTok sobre Kartenlegen (cartas de tarô) como entretenimento.
 ## Estrutura
 - `roteiros/`: roteiros dos vídeos (em alemão, com notas em português)
 - `legendas/`: legendas e hashtags
+- `personagens/`: fichas de personagem (ex.: Madame Neon)
 - `calendario.md`: plano de postagens (a criar)
